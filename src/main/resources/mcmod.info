@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sandwichmod",
+  "name": "Sandwich Mod",
+  "description": "MAch cheese sandwiches.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Carl and Xavier Pritchett"],
+  "credits": "Hungery kids ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

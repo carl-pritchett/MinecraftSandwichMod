@@ -1,0 +1,20 @@
+install jdk 8
+download forge mdk
+unzip into a dir with the mod name
+cd to dir and run
+gradlew setupDecompWorkspace eclipse
+
+download eclipse (add color theme - obsidian) 
+open workspace at mod dir
+
+Programming:
+
+Change the ExampleMod class
+Add common and client sided proxies
+add events
+add items
+
+See: This tutorial
+https://www.youtube.com/watch?v=ZxuMrRPbS6g
+https://www.youtube.com/watch?v=bfyw036pyq0
+https://www.youtube.com/watch?v=SxZOw7UWJLM
