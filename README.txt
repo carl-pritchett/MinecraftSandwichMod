@@ -20,8 +20,8 @@ windows: gradlew setupDecompWorkspace eclipse
 linux: ./gradlew setupDecompWorkspace eclipse
 
 5) Download Eclipse 
-6) Open workspace at mod dir
-7) You should be able to run the mod in normal or debug mode (the green play icon in the top bar in Eclipse)
+6) Open workspace, add project from the mod directory
+7) Run Minecraft with the mod in normal or debug mode (the green play icon in the top bar in Eclipse then Java Application, run the client launcher)
 
 Programming:
 ------------
